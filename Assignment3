@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML Lists Practice</title>
+</head>
+<body>
+  <!-- Unordered List of Fruits -->
+  <ul>
+    <li>Apple</li>
+    <li>Banana</li>
+    <li>Cherry</li>
+    <li>Watermelon</li>
+    <li>Grapes</li>
+  </ul>
+
+  <!-- Ordered List of Fruits -->
+  <ol>
+    <li>Apple</li>
+    <li>Banana</li>
+    <li>Cherry</li>
+    <li>Watermelon</li>
+    <li>Grapes</li>
+  </ol>
+</body>
+</html>
