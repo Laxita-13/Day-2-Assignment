@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>You're Invited!</title>
+</head>
+<body>
+
+  <h1>🎉 You're Invited to My Birthday Party! 🎂</h1>
+
+  <hr>
+
+  <p><strong>Date:</strong> March 13, 2025</p>
+  <p><strong>Time:</strong> 5:00 PM onwards</p>
+  <p><strong>Venue:</strong> My House, 123 Celebration Street, Happyville</p>
+
+  <p>Hey there! I'm throwing a birthday party and would LOVE for you to join the fun! 🥳</p>
+
+  <h2>What's in store?</h2>
+  <ul>
+    <li>Delicious Food 🍕</li>
+    <li>Fun Games 🎮</li>
+    <li>Music & Dance 💃🕺</li>
+    <li>Lots of Cake 🎂</li>
+  </ul>
+
+  <p>Don't forget to bring your party spirit and your biggest smile! 😄</p>
+
+  <img src="https://i.imgur.com/3xKxQde.jpg" alt="Birthday Party" width="300">
+
+  <p>Let me know if you’re coming 👉 <a href="mailto:youremail@example.com">RSVP Here</a></p>
+
+  <hr>
+
+  <p><em>Can’t wait to celebrate with you!</em></p>
+
+</body>
+</html>
